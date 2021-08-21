@@ -1,0 +1,81 @@
+body{
+	background-image: url(../images/RegisterAMember.jpg); 
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+::-webkit-scrollbar
+{
+	width: 12px;
+}
+::-webkit-scrollbar-thumb
+{
+	background: grey;
+	border-radius: 6px;
+}
+.simple-form{
+	text-align: center;
+	margin: 100px 80px;
+	border-radius: 20px;
+}
+h2
+{
+	margin: 0 0 30px;
+	padding: 0;
+	color:white;
+	text-align: center;
+	font-size:32px;
+}
+#Registration
+{
+	width: 80%;
+	background-color: #051019;
+	opacity: 0.8;
+	padding: 50px 8px;
+        margin-left:85px;
+        border-radius:10px;
+        
+}
+select
+{
+	font-size: 13px;
+	padding:5px;
+	
+}
+.button{
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+}
+.ph{
+	width: 200px;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+#butt
+				{
+					background: transparent;
+					border: none;
+					outline: none;
+					color: #fff;
+					background: #03a9f4;
+					padding: 10px 20px;
+					cursor: pointer;
+					border-radius: 5px;
+					margin-left: 2%;
+					font-size: 15px;
+				}
+
+
+#p1{
+		color: white;
+	font-size: 19px;
+	
+}
+#p2
+{
+	width: 90px;
+	padding: 10px;
+	border-radius: 5px;
+}
+

@@ -1,0 +1,76 @@
+body{
+	background-image: url(../images/2.jpg); 
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+::-webkit-scrollbar
+{
+	width: 12px;
+}
+::-webkit-scrollbar-thumb
+{
+	background: grey;
+	border-radius: 6px;
+}
+.simple-form{
+	text-align: center;
+	margin: 100px 80px;
+}
+#Registration{
+	width: 100%;
+	background-color: #051019;
+	opacity: 0.8;
+	padding: 50px 8px;
+}
+#button{
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+}
+#ph{
+	width: 100px;
+	padding: 10px;
+	border-radius: 5px;
+}
+#rd{
+
+}
+#but{
+	color: white;
+	font-size: 18px;
+}
+#butt{
+		background: transparent;
+	border: none;
+	outline: none;
+	padding: 10px 20px;
+	text-decoration :none;
+	cursor: pointer;
+	border-radius: 5px;
+	margin-left: 1%;
+	color: #fff;
+	background: #03a9f4;
+}
+
+#p1{
+		color: white;
+	font-size: 22px;
+	
+}
+#p2{
+	color: white;
+	font-size: 22px;
+}
+
+
+
+
+
+.simple-form h2
+{
+	margin: 0 0 30px;
+	padding: 0;
+	color: #fff;
+	text-align: center;
+	font-size:32px;
+}
